@@ -1,0 +1,9 @@
+Package: com.icraze.pagesquares
+Name: PageSquares
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Turn The Page Dots Into Squares
+Maintainer: iCraze
+Author: iCraze
+Section: Tweaks
